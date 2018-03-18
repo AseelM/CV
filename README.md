@@ -1,4 +1,4 @@
-## Your Name
+## Aseel Mustafa
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb '18 to Jun '18)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### City, University of London (Sep '11 to Jun '15)
 
-- Subject, any specialisms
-- Grade
+- BEng (Hons) in Engineering with Management & Entrepreneurship
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Code First: Girls** (Feb '17 to Jul '17)    
+*Tech Volunteer*  
+**City, University of London, London City Incubator** (Jan '16 to Apr '16)   
+*Technology Transfer Associate*  
